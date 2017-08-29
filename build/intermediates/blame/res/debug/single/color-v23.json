@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/WorkSpace/WorkSpace/JDAddressChoose/omnipotentryadapter/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/WorkSpace/WorkSpace/JDAddressChoose/omnipotentryadapter/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/WorkSpace/WorkSpace/JDAddressChoose/omnipotentryadapter/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/WorkSpace/WorkSpace/JDAddressChoose/omnipotentryadapter/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/WorkSpace/WorkSpace/JDAddressChoose/omnipotentryadapter/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/WorkSpace/WorkSpace/JDAddressChoose/omnipotentryadapter/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/WorkSpace/WorkSpace/JDAddressChoose/omnipotentryadapter/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/WorkSpace/WorkSpace/JDAddressChoose/omnipotentryadapter/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/WorkSpace/WorkSpace/JDAddressChoose/omnipotentryadapter/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/WorkSpace/WorkSpace/JDAddressChoose/omnipotentryadapter/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/WorkSpace/WorkSpace/JDAddressChoose/omnipotentryadapter/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/WorkSpace/WorkSpace/JDAddressChoose/omnipotentryadapter/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/WorkSpace/WorkSpace/JDAddressChoose/omnipotentryadapter/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/WorkSpace/WorkSpace/JDAddressChoose/omnipotentryadapter/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/WorkSpace/WorkSpace/JDAddressChoose/omnipotentryadapter/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/WorkSpace/WorkSpace/JDAddressChoose/omnipotentryadapter/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/WorkSpace/WorkSpace/JDAddressChoose/omnipotentryadapter/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/WorkSpace/WorkSpace/JDAddressChoose/omnipotentryadapter/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/WorkSpace/WorkSpace/JDAddressChoose/omnipotentryadapter/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/WorkSpace/WorkSpace/JDAddressChoose/omnipotentryadapter/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_tint_btn_checkable.xml"
+    }
+]
