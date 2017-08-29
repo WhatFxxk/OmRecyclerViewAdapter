@@ -15,7 +15,7 @@ import java.util.Map;
  * Created by wanghaixin on 17/8/29.
  */
 public abstract class OmRecyclerViewAdapter<T> extends RecyclerView.Adapter<OmRecyclerViewAdapter.ViewHolder> {
-
+/**/
     private Context context;
     private List<T> data;
     private int layoutRes;
